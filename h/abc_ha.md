@@ -1,4 +1,4 @@
-### Hand
+# HA
 
 **in hand，on hand， at hand，off hand**
 
@@ -44,6 +44,7 @@ He believes that the great day is at hand.
 
 > off hand 马上；立即；无需询问（或查证）。
 
-I cannot give you a reply off hand. 
+I cannot give you a reply off hand.
 
 我不能立刻给你答复。
+
