@@ -1,52 +1,64 @@
 # AR
 
+### arcane
 
+英[ɑːˈkeɪn] 美[ɑːrˈkeɪn]
 
-1. arbitrary
+requiring secret or mysterious knowledge
 
-   based on or subject to individual discretion or preference
+adj.	神秘的; 晦涩难懂的;
+Until a few months ago few people outside the arcane world of contemporary music had heard of Gorecki.
+直至几个月前，在现代音乐神秘殿堂之外很少有人听说了戈莱斯基。
 
-   The pieces don’t build or develop, sections are carelessly joined, endings seem **arbitrary**.[New York Times \(Jun 4, 2011\)](https://corpus.vocabulary.com/go/543740)
+### archaic
 
-2. arcane
+英[ɑːˈkeɪɪk] 美[ɑːrˈkeɪɪk]
 
-   requiring secret or mysterious knowledge
+so extremely old as seeming to belong to an earlier period
 
-   Not just the knowledge of world geography but the very conceptualisation of space in this late medieval map looks to us remote and **arcane**.
+adj.	古体的; 已不通用的; 早已过时的; 陈旧的; 古代的; 早期的;
+The system is archaic and unfair and needs changing.
+这个制度早已过时而且不公平，需要改变。
 
-3. archaic
+### archetype
 
-   so extremely old as seeming to belong to an earlier period
+英[ˈɑːkitaɪp] 美[ˈɑːrkitaɪp]
 
-   There are other advantages as well to reading the classics electronically—you can tap **archaic** words on the screen for an instant definition.
+something that serves as a model
 
-4. archetype
+n. 典型;
+She is the archetype of an American movie star.
+她是典型的美国影星。
 
-   something that serves as a model
+### arduous
 
-   In many ways, Mr. Romney and Mr. Huntsman embody the Mormon**archetype**: clean-cut, Republican American family men.[New York Times \(Nov 18, 2011\)](https://corpus.vocabulary.com/go/765364)
+英[ˈɑːdjuəs] 美[ˈɑːrdʒuəs]
 
-5. ardent
+characterized by effort to the point of exhaustion
 
-   characterized by intense emotion
+adj.	艰苦的; 艰难的;
+The arduous task is of great challenge to him.
+这项艰巨的工作对他是个很大的挑战。
 
-   Age, study, experience, retirement, reflection, had in no wise dimmed the fire of his **ardent** nationalism.[McCarthy, Justin](https://corpus.vocabulary.com/go/907248)
+### aristocratic
 
-6. arduous
+英[ˌærɪstəˈkrætɪk] 美[əˌrɪstəˈkrætɪk]
 
-   characterized by effort to the point of exhaustion
+belonging to or characteristic of the nobility
 
-   He seemed about thirty-five years of age, though the trace of **arduous**mental and physical exertion gave him a rather worn and older appearance.[Lindley, Augustus F.](https://corpus.vocabulary.com/go/899122)
+adj.	贵族的;
+Nabokov was the scion of an aristocratic family.
+纳博科夫是一个贵族家庭的阔少。
 
-7. aristocratic
+### artifice
 
-   belonging to or characteristic of the nobility
+英[ˈɑːtɪfɪs] 美[ˈɑːrtɪfɪs]
 
-   Several **aristocratic** families were stripped of their status after World War II, limiting the number of royal matches.
+a deceptive maneuver, especially to avoid capture
 
-8. artifice
+n.	诡计; 奸计;
+Weegee's photographs are full of artfulness, and artifice.
+维基的摄影作品运用了丰富的艺术手段和技巧。
 
-   a deceptive maneuver, especially to avoid capture
-
-   But small men use lying **artifices** and disguises to protect themselves.[Hillis, Newell Dwight](https://corpus.vocabulary.com/go/588770)
+Several **aristocratic** families were stripped of their status after World War II, limiting the number of royal matches.
 

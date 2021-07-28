@@ -60,11 +60,9 @@ The proposal got a warm ** welcome**
 
 - 醉蝶花（学名：**Cleome** spinosa* Jacq.）
 
-![cleome](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=68d2c895c8bf6c81e33a24badd57da50/dbb44aed2e738bd4474c9ecca58b87d6267ff9da.jpg)
-
 ### Whiff	
 
-英[wɪf]美[wɪf]
+英[wɪf] 美[wɪf]
 n.	一点儿气味; 一股气味; 轻微的迹象(或感觉); 一点点; 些许; 挥空(击球未中);
 v.	有臭味; 发臭; 挥空棒(击球未中);
 [例句]Not a whiff of scandal has ever tainted his private life.
