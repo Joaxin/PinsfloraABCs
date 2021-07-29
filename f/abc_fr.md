@@ -2,8 +2,7 @@
 
 ## From
 
-英[frəm] 美[frəm]
-prep.	(表示起始点)从…起，始于; (表示开始的时间)从…开始; (表示由某人发出或给出)寄自，得自;
+英\[frəm\] 美\[frəm\] prep. \(表示起始点\)从…起，始于; \(表示开始的时间\)从…开始; \(表示由某人发出或给出\)寄自，得自;
 
 > from…to…类结构的用法
 
@@ -19,7 +18,7 @@ prep.	(表示起始点)从…起，始于; (表示开始的时间)从…开始; 
 
    He swings from wild optimism to total despair. 他由极其乐观一变而为完全绝望.
 
-   The room was converted from a kitchen to a lavatory. 这房间由厨房改成了厕所(盥洗室).
+   The room was converted from a kitchen to a lavatory. 这房间由厨房改成了厕所\(盥洗室\).
 
    c. 表示“从一个……到另一个……”“一个……一个地”“逐个……”“挨个……”.如：
 
@@ -53,7 +52,7 @@ prep.	(表示起始点)从…起，始于; (表示开始的时间)从…开始; 
 
    I work from Tuesday to Saturday, Sunday and Monday are my days off. 我从星期二到星期六工作,星期日和星期一休息.
 
-   c.  用作定语
+   c. 用作定语
 
    通常用于名词后作定语.如：
 
@@ -216,13 +215,14 @@ prep.	(表示起始点)从…起，始于; (表示开始的时间)从…开始; 
    from beginning to end 从头到尾
 
    > I’ve read the book from beginning to end. 我把这本书从头到尾看完了.
-
+   >
    > The argument was shallow from beginning to end. 那次辩论从头到尾都很肤浅.
 
    from bad to worse 越来越糟
 
-   >  Things are going from bad to worse. 事态越来越糟了.
-
-    > His business is going from bad to worse. 他的生意每况愈下.
+   > Things are going from bad to worse. 事态越来越糟了.
+   >
+   > His business is going from bad to worse. 他的生意每况愈下.
 
    from cover to cover 从头至尾地
+
