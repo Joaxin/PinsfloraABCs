@@ -66,3 +66,7 @@ showing unselfish concern for the welfare of others
 
 adj. 利他的; 无私的; An Experimental Study on the Development of Altruistic Behavior in Children 儿童利他行为发展的实验研究
 
+alumni n.校友；
+
+alma mater n.母校；
+

@@ -20,3 +20,5 @@ These paintings are in some ways a reminder that earthly pleasures are ephemeral
 
 这些画在某种意义上提醒人们世俗的享乐是短暂的。
 
+epiphany醍醐灌顶
+

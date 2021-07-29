@@ -18,3 +18,5 @@ n. 服装; 衣服; vt. 使穿上衣服; 使穿上盛装; Her attention was attra
 
 She was elegantly and fashionably **attired**, wearing rich earrings, gold chain and locket, three valuable rings in addition to her wedding-ring, and so forth.
 
+atrium n.中庭；心房；
+

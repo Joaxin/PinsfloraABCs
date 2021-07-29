@@ -16,3 +16,5 @@ inherent ability
 
 n. 天资; 天生的才能; 天赋; Researchers used ACT scores as a measure of intellectual aptitude. 研究人员用美国大学入学考试\(ACT\)成绩来衡量其智力资质。
 
+apologia n.辩解；
+
