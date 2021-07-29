@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [HOME](README.md)
 * [A](a/README.md)
   * [AB](a/abc_ab.md)
   * [AC](a/abc_ac.md)
@@ -164,8 +164,8 @@
   * [UA](u/ua.md)
   * [UD](u/ud.md)
 * [V](v/README.md)
-  * [Untitled](v/untitled-1.md)
-  * [Untitled](v/untitled.md)
+  * [VA](v/va.md)
+  * [VC](v/vc.md)
 * [W](w/README.md)
   * [WA](w/wa.md)
 * [X](x/README.md)
